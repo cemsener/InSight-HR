@@ -19,7 +19,8 @@ If you want to learn more about creating good readme files then refer the follow
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
 
-- 🔗 Projt Link: https://lnkd.in/dD5k56V4
+
+🔗 Project Link: https://lnkd.in/dD5k56V4
 
 🎥 YouTube Video: https://bit.ly/427hJds 
 
